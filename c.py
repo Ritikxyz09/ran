@@ -45,7 +45,7 @@ BOT_CONFIG_FILE = "bot_configs.json"
 BOT_DATA_DIR = "bot_data"  # Directory to store each bot's data
 
 # Bot Configuration
-TELEGRAM_BOT_TOKEN = '8360846360:AAHp4NrjjiFvnWY3q_acyPrQsNUiIXMVyVI'
+TELEGRAM_BOT_TOKEN = '8369168928:AAGfzD7g8QlIq4DLrx4DxRDUfWwP2x7mbIQ'
 OWNER_ID = 6437994839 # 👈 Put your real Telegram user ID here
 CO_OWNERS = []  # List of user IDs for co-owners
 OWNER_CONTACT = "Contact to buy keys"
